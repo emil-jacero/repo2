@@ -1,3 +1,8 @@
+site_name: Repo 2
+repo_name: "emil-jacero/repo2"
+repo_url: "https://github.com/emil-jacero/repo2"
+edit_uri: "edit/main/"
+
 nav:
   - Getting Started: getting-started.md
   - Advanced Topics:
