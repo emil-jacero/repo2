@@ -1,3 +1,8 @@
 nav:
   - system-documentation/index.md
-  - system-documentation/*
+  - system-documentation/system-1.md
+  - system-documentation/system-2.md
+  - system-documentation/system-3.md
+  - Other Systems:
+      - system-documentation/other-systems/system-x.md
+      - system-documentation/other-systems/system-y.md
