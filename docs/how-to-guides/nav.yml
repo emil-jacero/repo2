@@ -5,6 +5,6 @@ edit_uri: "edit/main/"
 
 nav:
   - Getting Started: getting-started.md
-  - Advanced Topics:
-      - Part 1: advanced-topics/part-1.md
-      - Part 2: advanced-topics/part-2.md
+  - Extra:
+      - Part 1: extra/part-1.md
+      - Part 2: extra/part-2.md
